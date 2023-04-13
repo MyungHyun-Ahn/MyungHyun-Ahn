@@ -49,7 +49,7 @@
 themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
 
-![MyungHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungHyun-Ahn&show_icons=true&theme=radical)
+![MyungHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyungHyun-Ahn&show_icons=true&theme=vue)
 
 <br/>
 
